@@ -3,7 +3,7 @@
 title: Habeeb Abolaji BABATUNDE
 
 # Name pronunciation (optional)
-name_pronunciation: Habeeb Babatunde
+#name_pronunciation: Habeeb Babatunde
 
 # Full name (for SEO)
 first_name: Habeeb
