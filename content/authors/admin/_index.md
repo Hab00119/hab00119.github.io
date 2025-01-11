@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Habeeb Babatunde
+title: Habeeb Abolaji BABATUNDE
 
 # Name pronunciation (optional)
 name_pronunciation: Habeeb Babatunde
