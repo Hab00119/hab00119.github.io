@@ -24,7 +24,7 @@ role: PhD Candidate and Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Food and Dairy Innovation Center
+  - name: Food and Dairy Innovation Center, Boise State University
     url: https://www.boisestate.edu/fdicenter/
 
 # Social network links
@@ -55,7 +55,7 @@ interests:
 
 education:
   - area: PhD Computing (Data Science Emphasis)
-    institution: Boise State University
+    institution: Boise State University, Boise, Idaho, United States
     date_start: 2021-08-01
     date_end: 2025-08-31 
     summary: |
@@ -64,7 +64,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Financial Technology
-    institution: University of Stirling
+    institution: University of Stirling, Scotland, United kingdom
     date_start: 2019-08-01
     date_end: 2020-08-31
     summary: |
@@ -146,10 +146,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  # - name: Chinese
+  #   percent: 75
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Habeeb Babatunde is a PhD student in Computing at Boise State University. His research focuses on machine learning and AI applications. He currently works as the lead data scientist at the Food and Dairy Innovation Center, Boise State University, where he specializes in the analysis of milk proteins using infrared spectroscopy coupled with chemometrics.
