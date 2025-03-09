@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:babatundehabeeb2@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hab0019
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/habeeb-babatunde-32548bb1/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=Kp1MxhsAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-2507-6253
 
 interests:
   - Artificial Intelligence
@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Computing (Data Science Emphasis)
     institution: Boise State University
-    date_start: 2021-01-01
-    date_end: 2026-08-31
+    date_start: 2021-08-01
+    date_end: 2025-08-31 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -65,21 +65,21 @@ education:
       url: 'https://example.com'
   - area: MSc Financial Technology
     institution: University of Stirling
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-08-01
+    date_end: 2020-08-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: Distinction
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Data Analytics, Representing and manipulating data
+      - Business Ethics, Mobile Financial Applications
+      - Blockchain Technologies, Cybersecurity
+  - area: BTech Industrial Mathematics
+    institution: Federal University of Technology, Akure
+    date_start: 2014-01-01
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: Distinction
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
