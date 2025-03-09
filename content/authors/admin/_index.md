@@ -27,6 +27,8 @@ organizations:
   - name: Food and Dairy Innovation Center, Boise State University
     url: https://www.boisestate.edu/fdicenter/
 
+bio: My research focuses on machine learning applications, particularly in the dairy industry.
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
