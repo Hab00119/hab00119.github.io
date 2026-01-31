@@ -1,7 +1,8 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.136.5'
+  # Use Hugo Extended >= 0.148.2 for blox-tailwind v0.10.0 compatibility
+  WC_HUGO_VERSION: '0.152.2'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
