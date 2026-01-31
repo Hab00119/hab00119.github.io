@@ -1,0 +1,9 @@
+{
+  "name": "hab00119-site",
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^3.5.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
