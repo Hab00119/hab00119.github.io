@@ -58,3 +58,26 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# ────────────────────────────────────────────────────────────────────────────
+# Upstream HugoBlox compatibility / enhancements (merged values)
+# These values are added from the upstream starter to enable newer theme
+# features while preserving your site-specific settings.
+# ────────────────────────────────────────────────────────────────────────────
+hugoblox:
+  identity:
+    name: "Habeeb Babatunde"
+    description: "Postdoctoral researcher in data science developing chemometric methods for dairy analysis. Publications, code, and CV."
+    type: person
+  theme:
+    mode: system
+    colors:
+      primary: "emerald"
+  header:
+    style: navbar
+    search: true
+    theme_toggle: true
+    theme_picker: true
+  search:
+    enable: true
+    suggestions: []
