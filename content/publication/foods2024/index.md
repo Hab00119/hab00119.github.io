@@ -9,7 +9,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication: "Foods"
 publication_short: "Foods, 2024"
 doi: "10.3390/foods13010166"
-url: "https://www.mdpi.com/2304-8158/13/1/166"
+url_article: "https://www.mdpi.com/2304-8158/13/1/166"
 featured: true
 image: /assets/media/publication_preview/foods.svg
 ---
