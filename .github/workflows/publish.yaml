@@ -51,7 +51,9 @@ jobs:
         node-version: '18'
     - name: Install Node dependencies
       run: |
-        npm install --no-audit --no-fund --silent
+        # Prefer a reproducible install with npm ci, fall back to npm install when
+        # a package-lock.json is not present (some contributors may not commit it).
+        npm ci --no-audit --no-fund || npm install --no-audit --no-fund
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
