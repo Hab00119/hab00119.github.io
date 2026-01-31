@@ -7,7 +7,7 @@ authors:
   - admin
 tags:
   - Hugo
-  - Hugo Blox Builder
+  - Hugo Blox
   - Markdown
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
