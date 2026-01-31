@@ -51,7 +51,7 @@ jobs:
         node-version: '18'
     - name: Install Node dependencies
       run: |
-        npm ci
+        npm install --no-audit --no-fund --silent
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
