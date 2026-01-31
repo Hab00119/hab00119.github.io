@@ -13,11 +13,11 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "Habeeb A. Babatunde — Postdoctoral Researcher, Food & Dairy Innovation Center. I develop chemometric and machine-learning methods to quantify milk proteins and build reproducible open-source tools for dairy data science."
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
+      button:
+        text: 'Download CV'
+        url: 'uploads/resume.pdf' 
     design:
       css_class: dark
       background:

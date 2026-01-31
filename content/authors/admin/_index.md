@@ -20,14 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate and Data Scientist
+role: Postdoctoral Researcher, Food & Dairy Innovation Center
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Food and Dairy Innovation Center, Boise State University
     url: https://www.boisestate.edu/fdicenter/
 
-bio: My research focuses on machine learning applications, particularly in the dairy industry.
+bio: I am a Postdoctoral Researcher at the Food and Dairy Innovation Center, Boise State University. I develop chemometric and machine-learning methods to quantify milk proteins using spectroscopy and build reproducible open-source tools for dairy data science.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -187,4 +187,4 @@ awards:
 
 ## About Me
 
-Habeeb Babatunde is a PhD student in Computing at Boise State University. His research focuses on machine learning and AI applications. He currently works as the lead data scientist at the Food and Dairy Innovation Center, Boise State University, where he specializes in the analysis of milk proteins using infrared spectroscopy coupled with chemometrics.
+Habeeb A. Babatunde is a Postdoctoral Researcher at the Food and Dairy Innovation Center, Boise State University. He develops chemometric and machine-learning methods for milk protein quantification and builds reproducible open-source tools for dairy data science. For collaborations or enquiries, contact babatundehabeeb2@gmail.com.
