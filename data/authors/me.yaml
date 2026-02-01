@@ -1,0 +1,120 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Habeeb Abolaji BABATUNDE
+  given: Habeeb
+  family: Babatunde
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - PhD
+status:
+  icon: "☕️"
+role: Postdoctoral Researcher, Food & Dairy Innovation Center
+bio: |
+  I am a Postdoctoral Researcher at the Food and Dairy Innovation Center, Boise State University. 
+  I develop chemometric and machine-learning methods to quantify milk proteins using spectroscopy 
+  and build reproducible open-source tools for dairy data science.
+
+affiliations:
+  - name: Food and Dairy Innovation Center, Boise State University
+    url: https://www.boisestate.edu/fdicenter/
+
+links:
+  - icon: at-symbol
+    url: mailto:babatundehabeeb2@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Hab00119
+  - icon: brands/github
+    url: https://github.com/habeeb3579
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/habeeb-babatunde-32548bb1/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=Kp1MxhsAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0000-2507-6253
+
+interests:
+  - Artificial Intelligence
+  - Data Engineering
+  - Chemometrics
+  - Mathematics
+  - Statistics
+
+education:
+  - degree: PhD Computing (Data Science Emphasis)
+    institution: Boise State University, Boise, Idaho, United States
+    start: 2021-08-01
+    end: 2025-08-31
+    summary: |
+      Dissertation on machine learning and chemometric methods for dairy protein quantification using spectroscopy. 
+      Developed reproducible open-source tools for dairy data science.
+  - degree: MSc Financial Technology
+    institution: University of Stirling, Scotland, United Kingdom
+    start: 2019-08-01
+    end: 2020-08-31
+    summary: |
+      Distinction
+      
+      Courses included: Data Analytics, Representing and manipulating data, Business Ethics, 
+      Mobile Financial Applications, Blockchain Technologies, Cybersecurity
+  - degree: BTech Industrial Mathematics
+    institution: Federal University of Technology, Akure, Nigeria
+    start: 2014-01-01
+    end: 2018-12-31
+    summary: |
+      First Class Honors
+
+experience:
+  - role: Postdoctoral Researcher
+    org: Food and Dairy Innovation Center
+    start: 2025-09-01
+    summary: |
+      Research focus:
+      - Developing chemometric and machine-learning methods for milk protein quantification
+      - Building reproducible open-source tools for dairy data science
+      - Spectroscopy data analysis and preprocessing
+  - role: Graduate Research Assistant
+    org: Boise State University
+    start: 2021-08-01
+    end: 2025-08-31
+    summary: |
+      Research and teaching assistant in data science and machine learning applications for food science.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 5
+      - label: Machine Learning
+        level: 5
+      - label: Chemometrics
+        level: 5
+      - label: R
+        level: 4
+  - name: Research Interests
+    items:
+      - label: Data Science
+        level: 5
+      - label: Spectroscopy
+        level: 5
+      - label: Open Source
+        level: 5
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+  - name: Yoruba
+    level: 5
+    label: Native
+
+# awards:
+#   - title: Award Name
+#     awarder: Organization
+#     date: "2023-12-01"
+#     summary: Award description
+#     icon: hero/trophy
