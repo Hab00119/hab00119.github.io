@@ -22,9 +22,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Repositories
-    url: repositories/
-    weight: 35
   - name: Courses
     url: courses/
     weight: 40
