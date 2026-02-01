@@ -25,6 +25,6 @@ main:
   - name: Repositories
     url: repositories/
     weight: 35
-  - name: Teaching
-    url: teaching/
+  - name: Courses
+    url: courses/
     weight: 40

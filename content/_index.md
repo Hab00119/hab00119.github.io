@@ -61,7 +61,7 @@ sections:
         featured_only: true
       text: "Key peer-reviewed papers and impactful research."
     design:
-      view: article-grid
+      view: citation
       columns: 2
   - block: collection
     content:
@@ -82,7 +82,7 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
+      view: date-title-summary
       columns: 1
   - block: collection
     id: news
