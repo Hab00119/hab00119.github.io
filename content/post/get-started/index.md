@@ -9,8 +9,6 @@ date: 2023-10-27
 authors:
   - admin
   - Ted
-
-tags:
 tags:
   - Academic
   - Hugo Blox
