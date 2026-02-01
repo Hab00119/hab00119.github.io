@@ -30,7 +30,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
+        # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -55,7 +55,7 @@ jobs:
         # Prefer a reproducible install with npm ci, fall back to npm install when
         # a package-lock.json is not present (some contributors may not commit it).
         npm ci --no-audit --no-fund || npm install --no-audit --no-fund
-    - name: Debug: verify Node deps and Tailwind
+    - name: 'Debug: verify Node deps and Tailwind'
       run: |
         echo "--- Debug: environment ---"
         echo "PATH=$PATH"
