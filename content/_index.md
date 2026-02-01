@@ -42,11 +42,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on developing **chemometric and machine learning methods** for spectroscopic analysis in dairy science. I specialize in applying advanced computational techniques to quantify milk constituents, particularly proteins like β-lactoglobulin and α-lactalbumin, using mid-infrared spectroscopy (MIR).
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am passionate about **automated machine learning pipelines** and have developed novel frameworks using Bayesian optimization for spectral preprocessing, achieving state-of-the-art prediction accuracy. My work bridges the gap between analytical chemistry and data science, creating reproducible and open-source tools for the dairy industry.
 
-        Please reach out to collaborate 😃
+        My research interests span **artificial intelligence, data engineering, chemometrics, and computational mathematics**. I am committed to advancing agricultural technology through innovative data-driven solutions.
+
+        Please reach out to collaborate! 😃
     design:
       columns: '1'
   - block: collection
