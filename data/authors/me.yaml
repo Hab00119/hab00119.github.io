@@ -31,7 +31,7 @@ links:
   - icon: brands/github
     url: https://github.com/habeeb3579
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/habeeb-babatunde-32548bb1/
+    url: https://www.linkedin.com/in/habeeb-babatunde-abolaji/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Kp1MxhsAAAAJ&hl=en
   - icon: academicons/orcid
@@ -112,9 +112,9 @@ languages:
     level: 5
     label: Native
 
-# awards:
-#   - title: Award Name
-#     awarder: Organization
-#     date: "2023-12-01"
-#     summary: Award description
-#     icon: hero/trophy
+awards:
+  - title: Most Outstanding International Graduate Student
+    awarder: Center for Global Learning, Boise State University
+    date: "2025-12-15"
+    summary: Recognized for exceptional academic achievement, research contributions, and commitment to the university community during doctoral studies.
+    icon: hero/trophy

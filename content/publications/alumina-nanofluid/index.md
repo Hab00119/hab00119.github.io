@@ -26,7 +26,7 @@ tags:
 - Magnetic Field
 - Hall Effect
 - Computational Physics
-featured: true
+featured: false
 
 links:
   - type: source

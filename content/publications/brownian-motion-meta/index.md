@@ -23,7 +23,7 @@ tags:
 - Fluid Dynamics
 - Meta-Analysis
 - Heat Transfer
-featured: true
+featured: false
 
 links:
   - type: source

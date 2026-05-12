@@ -13,6 +13,8 @@ tags:
   - Sports Analytics
 ---
 
-End-to-end data engineering pipeline for analyzing English Premier League football data.
+An end-to-end data engineering pipeline that ingests, transforms, and analyzes English Premier League match and player statistics. The pipeline covers the full data lifecycle: API-based extraction, schema validation, incremental loading into a data warehouse, and transformation for downstream analytics.
+
+Built with Python, the project demonstrates production-grade practices including idempotent loads, data quality checks, and modular orchestration. Analytical outputs include team performance trends, player contribution metrics, and season-over-season comparisons.
 
 <!--more-->

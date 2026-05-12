@@ -12,6 +12,8 @@ tags:
   - Python
 ---
 
-End-to-end realtime voting application built with modern data engineering tools and streaming technologies.
+A fully event-driven, real-time voting system that processes and visualizes votes as they are cast. The architecture uses Apache Kafka for event streaming, Apache Spark for real-time aggregation, and a live dashboard for result visualization — demonstrating how modern streaming infrastructure handles high-throughput, low-latency data pipelines.
+
+The project covers voter registration, ballot submission, stream processing with fault tolerance, and real-time leaderboard updates. It serves as a practical reference for event-sourced system design and stateful stream processing patterns.
 
 <!--more-->
